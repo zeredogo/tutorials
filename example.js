@@ -1,4 +1,4 @@
-console.log("Welcome"[7]);
+/*console.log("Welcome"[7]);
 console.log("object".length);
 console.log(object[object.length - 1]);
 
@@ -9,10 +9,10 @@ console.log(object[object.length - 1]);
 let USD = 1200
 let NG = /*convert USD to NG */
 
-console.log(/*Print out NG to the console */)
+/*console.log(/*Print out NG to the console */
 
 // Comparison Operators
-let age = 16;
+/*let age = 16;
 let hasId = true
 if ( age > 18 ) {
     console.log("You're x years old, you may enter the club")
@@ -41,6 +41,21 @@ for (let i = 0; i < 5; i++){
     console.log(i)
 }
 
+
+
+
+
+
+
+
+
+let loggedIn = true;
+let hasMembership = true;
+// show video or don't show video
+
+
+
+
 /* write a for-Loop that loops through i to 15.
   - if the number is odd, print "asap"
   - if the number is even, print 'frontend'
@@ -48,23 +63,41 @@ for (let i = 0; i < 5; i++){
   
   */
 
-  for (let i = 1; i <= 15; i++){
+
+
+
+ /* for (let i = 1; i <= 15; i++){
     if(i % 5 === 0)
         console.log(`${i} - asap frontend`)
   }else if (i % 2 === 0){
     console.log(`${i} - frontend`)
   }else {
       console.log(`${i} - asap`)
-  }
+  }*/
+
+
+
+
+
+
+
+
 
 /* Print out all the characters from the string:
   "Asap frontend"
 */
 
-let str = ""
+let str = "welcome back"
 for (let i = 0; i < str.length; ++i){
     console.log(str[i]) 
 }
+
+let loggedIn = true;
+let hasMembership = true;
+// show video or don't show video
+
+
+
 
 
 // Function -- functions are reusable blocks of code that perform a specific task.
@@ -98,7 +131,12 @@ greetUser("paul")
 //   $AUD to $USD formula:
 //   AUD = USD x 1.5
 //  */
-// // Regular function
+// // Regular function 
+function convertUsdToAud(dollers){
+  let AUD = dollers * 1.5
+  return AUD
+}
+console.log(convertUsdToAud(1000))
 //   function convertUsdToAud(dollars) {
 //     return dollars * 1.5
 //   }

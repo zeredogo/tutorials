@@ -60,7 +60,7 @@ console.log(Arrays)*/
 
 // &&  and ||
 
-let age = 15;
+/*let age = 15;
 let hasId = true;
 if ( age >= 18 && hasId === false ) {
     console.log(`You're ${age} years old, you may enter the club`)
@@ -69,27 +69,98 @@ if ( age >= 18 && hasId === false ) {
 }
 
 // Ternary Operator
-
+ let abc = a <1 ?'hi' : "hello";
 const clubMenbers =
   age >= 18 || hasId === false
     ? `You're ${age} years old, you may enter the club`
     : `You're ${age} years old, get outta here.`;
 
-console.log(clubMenbers);
+console.log(clubMenbers);*/
 
-// Loops 
-/*let counter = 1;
+// Loops
+/**let counter = 1;
 while(counter <= 5) {
     console.log("loop is running")
     counter = counter + 1;
 }
-console.log(`finished running ${counter}`)*/
+console.log(`finished running ${counter}`)
 
 for (let i = 0; i < 5; i++){
     console.log(i)
 }
 
-let style = "Prettier";
-for (let i = 1; i < style.length; i++){
-    console.log(style)
+let style = 123456;
+for (let i = 0; i <= style.length; i++){
+    console.log(style.length - 1)
+} */
+
+let signIn = true;
+let vipUser = true;
+
+// show video : don't show video
+const showVideo =
+  signIn === true && vipUser === true ? "show video" : "Don't show video";
+console.log(showVideo);
+
+if (signIn === true && vipUser === true) {
+  console.log("show video");
+} else {
+  console.log("don't show video");
 }
+
+signIn === true && vipUser === true
+  ? console.log("show video")
+  : console.log("Don't show video");
+
+/* write a for-Loop that loops through i to 15.
+  - if the number is odd, print "back"
+  - if the number is even, print 'Welcome'
+  - if the number is divisible by 5, print "welcome back"
+  
+  */
+for(i = 1; i <= 15; i++){
+    if(i % 5 === 0){
+        console.log('welcome back')
+    } else if(i % 2 === 0){
+        console.log('Welcome')
+    }else{console.log('Back')}
+}
+
+
+
+function convertUsdToAud(dollers){
+  let AUD = dollers * 1.5
+  return AUD
+}
+console.log(convertUsdToAud(1000))
+
+ Function
+//  function Declaration
+ function greetUser(name, time) {
+    console.log(`Good ${time}, ${name}`)
+ }
+
+// call the function
+ greetUser("Paul", "Morning");
+ greetUser("Dogo", "evening")
+
+  function sum(num1, num2) {
+    return num1 + num2
+  }
+
+ console.log(sum(2, 7))
+
+
+
+// function Declaration
+ function fullName(firstName, lastName){
+    console.log(firstName, lastName)
+ }
+// call the function
+ fullName("Paul", "Dogo")
+
+ const name = (firstName, lastName) => {
+    console.log(lastName, firstName,)
+ }
+
+name()
