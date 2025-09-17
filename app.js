@@ -163,4 +163,18 @@ console.log(convertUsdToAud(1000))
     console.log(lastName, firstName,)
  }
 
-name()
+name("Paul", "Dogo")
+
+  /* Create a function that converts $USD into NG
+   #NG to $USD formula:
+   NG = USD x 1500
+
+   convertUsdToNg(1000)
+   convertUsdToNg(500)
+   convertUsdToNg(300)
+  */
+ function convertUsdToNg(dollers){
+  let NG = dollers * 1.5
+  return NG
+}
+console.log(convertUsdToAud(1000))
