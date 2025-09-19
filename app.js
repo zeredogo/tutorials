@@ -174,7 +174,79 @@ name("Paul", "Dogo")
    convertUsdToNg(300)
   */
  function convertUsdToNg(dollers){
-  let NG = dollers * 1.5
+  let NG = dollers * 1500
   return NG
 }
-console.log(convertUsdToAud(1000))
+console.log(convertUsdToNg(1000))
+
+
+//  Arrow Function
+
+   const convertUsdToNg2 = (dollars) => {
+      return dollars * 1500
+   }
+
+   console.log(convertUsdToNg2(350))
+
+// Arrays
+   let array = [20, 15, 10, 30, 5, 'Paul']
+
+   array.push('James')
+
+    console.log(array)
+
+   let Product = ['Mango', 50, true, 'Grapes', 300, false];
+
+   console.log(Product[Product.length - 1])
+
+   Product.push('Orange')
+
+   console.log(Product[Product.length - 1])
+
+   Product.push(60, true, 'Strawberry')
+
+   console.log(Product[Product.length - 1])
+
+   Product.pop(Product[Product.length - 1])
+
+   console.log(Product[Product.length - 1])
+
+
+  
+
+  
+
+
+
+
+//   // first element of an array
+//   console.log(array[0])
+//   // Last element of an array
+// console.log(array[array.length - 1])
+
+// array methods
+// Mutating method
+//array.push(13)
+
+// Non-mutating method
+
+/*let filteredArray = array.filter((element) => {
+  console.log(element);
+  if (element <= 15) {
+     return true
+    }
+})*/
+
+//Another way of doing this if the para-meter is just one you don't need ()
+// and you just return the element directly with the if statement
+/* 
+let filteredArray = array.filter(element => {
+     return element <= 15
+    })
+*/
+    // there is another way but only if you are returning a single line of code 
+//     let filteredArray = array.filter(element => element <= 15)
+// console.log(filteredArray)
+
+//Exercise
+// Filter out all the people who are not 18+ years old
