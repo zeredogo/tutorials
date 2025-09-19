@@ -250,3 +250,14 @@ let filteredArray = array.filter(element => {
 
 //Exercise
 // Filter out all the people who are not 18+ years old
+
+
+let DELL = 21
+let HP = 51
+if(HP === 55 && DELL === 25 ){
+  alert("HP")
+}else if(HP !== 55 && DELL === 25) {
+  alert("DELL")
+}else{
+  alert("Then these may be between Linux or zenox")
+}
