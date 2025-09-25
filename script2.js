@@ -1,1 +1,1 @@
-let strin
+let string
