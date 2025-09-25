@@ -1,1 +1,1 @@
-let stri
+let strin
