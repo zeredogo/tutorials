@@ -1,1 +1,1 @@
-let string =
+let string = "K"
