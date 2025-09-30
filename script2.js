@@ -1,1 +1,1 @@
-let string = "Krpt"
+let string = "Krpto"
