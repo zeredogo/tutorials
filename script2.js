@@ -1,1 +1,1 @@
-let string = "KrptoZone " + "Dog"
+let string = "KrptoZone " + "Dogo"
