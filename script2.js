@@ -1,2 +1,2 @@
 let string = "KrptoZone " + "DogoEmpire";
-const string
+const stringN
