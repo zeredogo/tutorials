@@ -1,2 +1,2 @@
 let string = "KrptoZone " + "DogoEmpire";
-const stringName = `${Paul } + ${Sunday } + ${Dogo}`
+const stringName = `${Paul } + ${Sunday } + ${Dogo}`;
