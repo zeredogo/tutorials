@@ -1,4 +1,4 @@
 let string = "KrptoZone " + "DogoEmpire";
 const stringName = `${Paul } + ${Sunday } + ${Dogo}`;
 
-let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Appl']
+let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple']
