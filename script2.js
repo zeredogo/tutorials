@@ -4,5 +4,6 @@ const stringName = `${Paul } + ${Sunday } + ${Dogo}`;
 let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790, true];
 
 let objectGoods = {
-   fullName: 'Paul Sunday Dogo'
+   fullName: 'Paul Sunday Dogo',
+   L
 }
