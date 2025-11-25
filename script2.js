@@ -5,5 +5,5 @@ let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790
 
 let objectGoods = {
    fullName: 'Paul Sunday Dogo',
-   location: 'Opp. minning junction Tu'
+   location: 'Opp. minning junction Tud'
 }
