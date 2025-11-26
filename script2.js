@@ -3,7 +3,7 @@ const stringName = `${Paul } + ${Sunday } + ${Dogo}`;
 
 let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790, true];
 
-let objectGoods = {
+let objectPe = {
    fullName: 'Paul Sunday Dogo',
    location: 'Opp. minning junction Tudun/Wada, Jos.'
 }
