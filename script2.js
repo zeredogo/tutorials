@@ -7,3 +7,5 @@ let objectPerson = {
    fullName: 'Paul Sunday Dogo',
    location: 'Opp. minning junction Tudun/Wada, Jos.'
 }
+
+con
