@@ -9,4 +9,4 @@ let objectPerson = {
 }
 
 console.log(stringName, string, arrayProduct);
- console
+ console.log
