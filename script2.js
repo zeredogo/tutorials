@@ -8,4 +8,5 @@ let objectPerson = {
    location: 'Opp. minning junction Tudun/Wada, Jos.'
 }
 
-console.log(stringName, string, arrayProduct, objectPerson);
+console.log(stringName, string, arrayProduct);
+ console
