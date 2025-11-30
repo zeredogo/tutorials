@@ -9,4 +9,4 @@ let objectPerson = {
 }
 
 console.log(stringName, string, arrayProduct);
- console.log(objectPerson.fu)
+ console.log(objectPerson.ful)
