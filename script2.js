@@ -9,4 +9,4 @@ let objectPerson = {
 }
 
 console.log(stringName, string, arrayProduct);
- console.log(objectPerson.fullN)
+ console.log(objectPerson.fullNa)
