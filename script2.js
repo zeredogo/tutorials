@@ -5,7 +5,7 @@ let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790
 
 let objectPerson = {
    fullName: 'Paul Sunday Dogo',
-   location: ['Plat', ' 'Opp. minning junction Tudun/Wada, Jos.']
+   location: ['Plate', ' 'Opp. minning junction Tudun/Wada, Jos.']
 }
 
 console.log(stringName, string, arrayProduct);
