@@ -5,7 +5,7 @@ let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790
 
 let objectPerson = {
    fullName: {
-      fi
+      fir
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
 }
