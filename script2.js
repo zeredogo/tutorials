@@ -13,4 +13,4 @@ let objectPerson = {
 }
 
 console.log(stringName, string, arrayProduct);
- console.log(objectPerson.fullName.firstName, obje)
+ console.log(objectPerson.fullName.firstName, objec)
