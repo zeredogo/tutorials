@@ -9,7 +9,7 @@ let objectPerson = {
       middleNam: 'Dogo',
       lastName: 'Sunday',
       dob: {
-         day: '1'
+         day: '15',
       }
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
