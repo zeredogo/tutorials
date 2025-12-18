@@ -7,7 +7,7 @@ let objectPerson = {
    fullName: {
       firstName: 'Paul',
       middleNam: 'Dogo',
-      lastName: 'Sunday'
+      lastName: 'Sunday',
       dob: {}
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
