@@ -11,7 +11,7 @@ let objectPerson = {
       dob: {
          day: '15',
          month: '11',
-         ye
+         yea
       }
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
