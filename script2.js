@@ -13,6 +13,7 @@ let objectPerson = {
          month: '11',
          year: '1995',
       },
+      color
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
 }
