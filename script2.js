@@ -5,7 +5,7 @@ let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790
 
 let objectPerson = {
    fullDetails: {
-      fullNa
+      fullName
       dob: {
          day: '15',
          month: '11',
