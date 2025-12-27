@@ -13,7 +13,7 @@ let objectPerson = {
          month: '11',
          year: '1995',
       },
-      color: ['Red', 'Black', 'Gray', 'Yellow', 'Blue', 'Green', 'Marroon','Go']
+      color: ['Red', 'Black', 'Gray', 'Yellow', 'Blue', 'Green', 'Marroon','Gol']
    },
    location: ['Plateau', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
 }
