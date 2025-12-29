@@ -9,7 +9,7 @@ let objectPerson = {
          firstName: 'Paul',
          middleName: 'Dogo',
          lastName: 'Sunday',
-      }
+      },
       dob: {
          day: '15',
          month: '11',
