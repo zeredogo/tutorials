@@ -6,7 +6,7 @@ let arrayProduct = ['Shoes', 'Clothe', 'Phone', 'Banana', 'Apple', 'Grape', 5790
 let objectPerson = {
    fullDetails: {
       fullName: {
-         
+         firstName: 'Paul',
       }
       dob: {
          day: '15',
