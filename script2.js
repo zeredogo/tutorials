@@ -8,6 +8,7 @@ let objectPerson = {
       fullName: {
          firstName: 'Paul',
           middleName: 'Dogo',
+         lastName: 'Sunday',
       }
       dob: {
          day: '15',
