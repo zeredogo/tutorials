@@ -7,6 +7,7 @@ let objectPerson = {
    fullDetails: {
       fullName: {
          firstName: 'Paul',
+          middleNam: 'Dogo',
       }
       dob: {
          day: '15',
