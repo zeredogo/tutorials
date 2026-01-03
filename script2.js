@@ -17,7 +17,7 @@ let objectPerson = {
       },
       color: ['Red', 'Black', 'Gray', 'Yellow', 'Blue', 'Green', 'Marroon','Gold', 'White']
    },
-   location: ['Plateau S', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
+   location: ['Plateau Sta', 'Jos', 'Opp. minning junction Tudun/Wada, Jos.']
 }
 
 console.log(stringName, string, arrayProduct);
